@@ -4,7 +4,7 @@ Developed a CNN architecture for strawberry detection by truncating pre-trained 
 
 
 
-Strawberry Low Resolution Heatmap Detector (Encoder only) - MobileNetV3 (TensorFlow/Keras)
+1. Strawberry Low Resolution Heatmap Detector (Encoder only) - MobileNetV3 (TensorFlow/Keras)
 
 
 Implemented a low-resolution heatmap detector for ripe strawberries via transfer learning on pretrained model MobileNetV3-Large with encoder output at 1/32 resolution.
@@ -29,7 +29,7 @@ Trained Head-only (10 epochs): val loss : 0.078–0.080 and then Full fine-tune 
 
 
 
-Strawberry High Resolution Heatmap Detector: Encoder decoder
+2. Strawberry High Resolution Heatmap Detector: Encoder decoder
 
 
 
