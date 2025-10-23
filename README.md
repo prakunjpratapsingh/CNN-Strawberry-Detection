@@ -29,6 +29,12 @@ Trained Head-only (10 epochs): val loss : 0.078–0.080 and then Full fine-tune 
 
 
 
+<img width="1183" height="1640" alt="Screenshot from 2025-10-23 12-17-35" src="https://github.com/user-attachments/assets/412fba28-b634-4591-b7bd-8a3c402a90fa" />
+
+<img width="1850" height="1008" alt="Screenshot from 2025-10-23 12-16-39" src="https://github.com/user-attachments/assets/9b37b249-96e8-461d-b152-57f95f7971b6" />
+
+
+
 2. Strawberry High Resolution Heatmap Detector: Encoder decoder
 
 
@@ -48,3 +54,16 @@ Decoder trainables ≈2.2k params (total model 2.84 M; backbone mostly frozen in
 
 
 Achieved robust high-res detection: after full fine-tune, loss 0.0448, precision@0.1 ≈ 0.69, recall@0.1 ≈ 0.76 .
+
+
+
+<img width="1871" height="781" alt="Screenshot from 2025-10-23 12-19-36" src="https://github.com/user-attachments/assets/2f98536a-48a0-41d3-bdba-9ba2835a7b07" />
+
+
+
+<img width="1859" height="1019" alt="Screenshot from 2025-10-23 12-18-33" src="https://github.com/user-attachments/assets/2e4aa01d-56d9-4136-ab1c-3ab6c661b697" />
+
+
+
+
+
